@@ -1,0 +1,26 @@
+* {
+    font-family: 'Inclusive Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#logo {
+    padding-left: 10px;
+    float: left;
+}
+
+.profile img {
+    height: 375px;
+}
+
+/* .navbar {
+    position: fixed;
+    text-align: right;
+    right: 30px;
+    clear: both;
+}
+
+ul {
+    list-style-type: none;
+} */
+
