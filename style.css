@@ -4,13 +4,16 @@
     font-family: 'Ubuntu', sans-serif;
 }
 
-#logo {
+/* #logo {
     padding-left: 10px;
     float: left;
-}
+} */
 
-.profile img {
-    height: 375px;
+.profile img{
+    /* height: 200px; */
+    /* border-radius: 30px; */
+    /* width: 100%; */
+    width: 100%;
 }
 
 /* .navbar {
