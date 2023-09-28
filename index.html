@@ -13,45 +13,27 @@
     <!-- Headers -->
     <nav class="navbar navbar-dark bg-dark" aria-label="Dark offcanvas navbar">
       <div class="container-fluid">
-        <a class="navbar-brand fs-3" href="#">Yu-Cheng Chen</a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbarDark" aria-controls="offcanvasNavbarDark" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="offcanvas offcanvas-end text-bg-dark" tabindex="-1" id="offcanvasNavbarDark" aria-labelledby="offcanvasNavbarDarkLabel">
-          <div class="offcanvas-body">
-            <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
-              <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="#">About</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#">Project</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#">Contact</a>
-              </li>
-            </ul>
-          </div>
-        </div>
+        <a class="navbar-brand fs-3">Yu-Cheng Chen</a>
       </div>
     </nav>
 
     <!-- About -->
-    <div class="container col-xxl-8 px-4 profile">
+    <div class="container col-xxl-9 px-4 profile" id="about">
         <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
-          <div class="col-lg-9">
-            <h1 class="display-6 fw-bold text-body-emphasis lh-1 mb-3">Yu-Cheng Chen (陳昱丞)</h1>
-            <p class="lead">Hi! I'm Victor Chen. I like to play with new technology, make things, and work with people. I graduated with a major in computer science and physics at NCKU, and my mission is to build technology that'll improve the way people live, work, and play.</p>
-            <p class="lead">I like to play with new technology, make things, and work with people. I graduated with a major in computer science and physics at NCKU, and my mission is to build technology that'll improve the way people live, work, and play.</p>
+          <div class="col-lg-8">
+            <!-- <h1 class="display-6 fw-bold text-body-emphasis lh-1 mb-3">Yu-Cheng Chen (陳昱丞)</h1> -->
+            <p class="lead fs-3">Hi! I'm Victor Chen.</p>
+            <p class="lead fs-3">I like to play with new technology, make things, and work with people. I graduated with a major in computer science and physics at NCKU, and my mission is to build technology that'll improve the way people live, work, and play.</p>
            
           </div>
-          <div class="col-10 col-sm-8 col-lg-3 ">
+          <div class="col-10 col-sm-8 col-lg-4">
             <img src="./images/profile.jpg" class="d-block img-fluid rounded-5 w-100" alt="profile image" loading="lazy">
           </div>
         </div>
     </div>
     
     <!-- Project -->
-    <div class="container mb-5">
+    <div class="container mb-5" id="project">
       <div class="p-4 mb-4 text-center bg-body-tertiary rounded-5">
         <h1 class="text-body-emphasis">What did I do ?</h1>
       </div>
@@ -63,17 +45,23 @@
               <h3 class="mb-0">Player and Ball Trajectory Analysis for Soccer Game</h3>
               <div class="mb-1 text-body-secondary">July 2022 ~ present
               </div>
-              <p class="card-text mb-auto">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
+              <p class="card-text mb-auto"> This project aims to provide a comprehensive analysis during a soccer game, enabling deeper insights into the game dynamics and strategies.</p>
               <ul class="list-unstyled mb-0 gap-1 ">
                 <li class="d-inline-block">
-                  <a href="https://github.com/VictorChen1111/Player-and-Ball-Trajectory-Analysis-for-Soccer-Game" class="icon-link gap-1 icon-link-hover stretched-link">
-                    View detail
+                  <a href="https://youtu.be/0ThJjbOlmcc?si=WVX7SI2FaXF8tPjS&t=100" class="icon-link gap-1 icon-link-hover text-capitalize">
+                    watch news
                     <svg class="bi"><use xlink:href="#chevron-right"></use></svg>
                   </a>
                 </li>
                 <li class="d-inline-block">
-                  <a href="https://github.com/VictorChen1111/Player-and-Ball-Trajectory-Analysis-for-Soccer-Game" class="icon-link gap-1 icon-link-hover stretched-link">
-                    Watch video
+                  <a href="https://youtu.be/3QqCJYJVqGs" class="icon-link gap-1 icon-link-hover text-capitalize">
+                    watch demo video
+                    <svg class="bi"><use xlink:href="#chevron-right"></use></svg>
+                  </a>
+                </li>
+                <li class="d-inline-block">
+                  <a href="https://github.com/VictorChen1111/Player-and-Ball-Trajectory-Analysis-for-Soccer-Game" class="icon-link gap-1 icon-link-hover text-capitalize">
+                    view detail
                     <svg class="bi"><use xlink:href="#chevron-right"></use></svg>
                   </a>
                 </li>
@@ -89,8 +77,8 @@
             <div class="col p-4 d-flex flex-column position-static">
               <h3 class="mb-0">BoardHub</h3>
               <div class="mb-1 text-body-secondary">Feb. 2021 ~ July 2021</div>
-              <p class="mb-auto">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
-              <a href="https://youtu.be/Kdcjj7WjC0s" class="icon-link gap-1 icon-link-hover stretched-link">
+              <p class="mb-auto">A digital gaming platform for parties that offers a more engaging and dynamic way to play board games with your family.</p>
+              <a href="https://youtu.be/Kdcjj7WjC0s" class="icon-link gap-1 icon-link-hover text-capitalize">
                 Watch video
                 <svg class="bi"><use xlink:href="#chevron-right"></use></svg>
               </a>
@@ -106,8 +94,8 @@
           <div class="col p-4 d-flex flex-column position-static">
             <h3 class="mb-0">MentorList</h3>
             <div class="mb-1 text-body-secondary">Feb. 2021 ~ July 2021</div>
-            <p class="mb-auto">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
-            <a href="https://www.youtube.com/watch?v=1Y6hvvfdjNU&ab_channel=AmwayTaiwan" class="icon-link gap-1 icon-link-hover stretched-link">
+            <p class="mb-auto">A mentorship platform designed to facilitate connections, bridging information gaps, and fostering understanding among different generations and ethnicities in Taiwan.</p>
+            <a href="https://www.youtube.com/watch?v=1Y6hvvfdjNU&ab_channel=AmwayTaiwan" class="icon-link gap-1 icon-link-hover text-capitalize">
               Watch video
               <svg class="bi"><use xlink:href="#chevron-right"></use></svg>
             </a>
