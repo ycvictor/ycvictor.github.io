@@ -15,14 +15,12 @@ linkedin_username: "yuchengvictor"
 #########################################################################################
 theme: "minima"
 
-# rss: rss
-
 kramdown:
   syntax_highlighter_opts:
     disable: true
     
 plugins:
-  - jekyll-feed
+  - jekyll-feed 
   - jekyll-sitemap
 
 titles_from_headings:
