@@ -1,13 +1,13 @@
-title: "Victor's Blog"
+title: "Hi there! I'm Victor Chen"
 author: "Victor Chen"
-description: "I love making friends! If you'd like to get in touch, shoot me a message on facebook, or ycvictor at uw dot edu."
+description: "Just weaving my little corner of the web."
 # This will show up in places like twitter, linkedin, etc, if you share your site's url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-# email: "ycvictor@uw.edu"
-# github_username: "githubuser"
-# linkedin_username: "linkedinuser"
+email: "ycvictor@uw.edu"
+github_username: "ycvictor"
+linkedin_username: "ycvictor"
 
 
 #########################################################################################
