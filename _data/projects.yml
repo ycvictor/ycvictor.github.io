@@ -1,0 +1,31 @@
+- name: NASA Jet Propulsion Laboratory (UW Capstone)
+  role: Software Engineer
+  date: Jan 2025 - June 2025
+  location: Seattle, WA
+  description: Designed a system to predict how environmental hazards affect power grids, using LSTM models and modular ML pipelines.
+  link: https://zhanglinzheng.github.io/engine/
+
+# - name: Information Processing Lab, UW
+#   role: Research Assistant
+#   date: Sep 2024 - Jan 2025
+#   location: Seattle, WA
+#   description: Enhanced motion encoder performance with contrastive learning and data augmentation for transformer models.
+
+- name: Gigwok, Inc.
+  role: Software Engineer
+  date: Apr 2024 - Sep 2024
+  location: Santa Monica, CA
+  description: This app aims to make mental health care more engaging by turning anxiety relief into a fun and interactive experience. Discover new ways to understand and support your mental well-being while enjoying playful moments with your Emofish friends.
+  link: https://www.gigwok.com/emocean
+
+- name: Predicting Survivability of Cancer Patients
+  role: Software Engineer
+  date: April 2025 - Present
+  description: Predicting survival time for breast cancer patients using clinical and genomic data with a multi-head attention transformer architecture. Helps doctors make informed decisions and supports patients in planning personalized treatments.
+  link: https://github.com/liambakar/PredictGenome
+
+- name: SoccerFlow AI Soccer Tactical Analysis
+  role: Software Engineer
+  date: July 2022 - Dec 2023
+  description: Affordable player tracking and tactical analysis without expensive wearable sensors. Visualize formations, key stats, and improve team strategy and communication using computer vision. Sparked my passion for machine learning through real game impact.
+  link: https://www.youtube.com/watch?v=3QqCJYJVqGs

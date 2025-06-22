@@ -1,5 +1,5 @@
-title: "Hi there! I'm Victor Chen"
-author: "Victor Chen"
+title: "Victor Chen"
+author: 
 description: "Just weaving my little corner of the web."
 # This will show up in places like twitter, linkedin, etc, if you share your site's url as a post.
 
@@ -27,9 +27,13 @@ titles_from_headings:
   strip_title: true
   collections: true
 
+header_pages:
+  - portfolio.html
+  - archive.md
+
 defaults:
   - scope:
       path: ""
-      type: post
+      type: posts
     values:
-      tags: Other
+      tags: ["Other"]

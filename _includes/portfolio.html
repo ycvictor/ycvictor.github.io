@@ -1,0 +1,30 @@
+{%- assign resume = site.data.resume -%}
+<link href="/css/resume.css" rel="stylesheet" type="text/css">
+
+<div class="page-content">
+  <!-- <header class="page-header">
+    <div class="header-title">
+      <span class="header-name">My Projects</span>
+    </div>
+  </header> -->
+
+  <section class="content-section">
+    <div class="section-content">
+      {%- assign projects = site.data.projects -%}
+      {%- for project in projects -%}
+      <div class="resume-item">
+        <h2 class="resume-item-title">{{ project.name }}</h2>
+        <div class="resume-item-copy">
+          <p>{{ project.description }}</p>
+          {%- if project.details -%}
+            <p>{{ project.details }}</p>
+          {%- endif -%}
+          {%- if project.link -%}
+            <p><a href="{{ project.link }}" target="_blank">Visit Site</a></p>
+          {%- endif -%}
+        </div>
+      </div>
+      {%- endfor -%}
+    </div>
+  </section>
+</div>

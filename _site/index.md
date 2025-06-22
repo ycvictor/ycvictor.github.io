@@ -1,0 +1,5 @@
+I am a passionate Software Engineer and Machine Learning enthusiast with a background in Computer Science and Physics from National Cheng Kung University, currently pursuing a master’s degree in Electrical and Computer Engineering at the University of Washington.
+
+I enjoy building real-world applications that are both user-focused and technically strong. My work spans from launching mobile apps that support mental wellness to developing machine learning systems for forecasting environmental hazards at NASA JPL.
+
+With hands-on experience in React Native, cloud synchronization, and deep learning frameworks like PyTorch, I am eager to contribute to a team that values innovation and impact. I am actively seeking opportunities in software engineering or machine learning where I can continue growing and creating meaningful solutions.
