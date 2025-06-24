@@ -49,3 +49,9 @@ hr {
 .rss-subscribe {
   display: none !important;
 }
+
+.site-footer { display: none;}
+
+.post-title {
+    font-size: 34px;
+}
