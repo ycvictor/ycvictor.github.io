@@ -13,8 +13,7 @@ Previously I doubled major in Computer Science and Physics in National Cheng Kun
 
 **Startup.** I am passionate about innovation and problem-solving. I love the startup spirit, being proactive, adaptable, and growth-oriented. I thrive in environments that value experimentation, following a build, measure, learn cycle to drive progress.
 
-**Soccer.** I have played competitive soccer (and also swam competitively) for most of my life. Over ten years on the varsity team shaped who I am today. I am driven, collaborative, and sometimes fiercely competitive.
-
+**Soccer.** I have played competitive soccer (and also swimming) for most of my life. Over ten years on the varsity team shaped who I am today. I can be extremely competitive sometimes.
 **Baking.** I started learning to bake after moving to Seattle. It has been a wonderful way to unwind without screens, and a privilege to share what I make with people around me. I keep notes on every recipe I try and enjoy tweaking them bit by bit. [Here is my recipe collection.](/baking/)
 
 
