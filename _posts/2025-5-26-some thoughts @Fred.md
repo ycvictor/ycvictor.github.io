@@ -2,7 +2,7 @@
 tags: Other
 ---
 
-## Some thoughts @Fred
+# Some thoughts @Fred
 
 最近對人生又多了些感觸，不夠具體能用言語清楚表達，想在這邊看能不能紀錄現在當下的感受。
 
