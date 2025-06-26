@@ -4,7 +4,7 @@ title: My Baking Recipes
 permalink: /baking/
 ---
 
-# My Baking Recipes
+_I love snacks and baking brings me joy. If you have any feedback or a secret recipe to share, I’d genuinely love to hear from you._
 
 ## 🍌 Banana Cake
 
