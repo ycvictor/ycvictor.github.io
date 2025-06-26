@@ -19,7 +19,7 @@ Previously I doubled major in Computer Science and Physics in National Cheng Kun
 
 ### Contact
 
-I am always looking forward to meeting and collaborating with new people.
+I'm always looking forward to meeting and collaborating with new people.
 Here are some ways to keep in touch with me:
 
 - **Email:** ycvictor [at] uw [dot] edu
