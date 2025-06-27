@@ -4,8 +4,11 @@ title: About Me
 ---
 
 Hey, I’m Yu Cheng(Victor) Chen.  I'm currently based in Seattle studying ECE MS at UW.
-
 Previously I doubled major in Computer Science and Physics in National Cheng Kung University.
+
+I started this blog to encourage myself to share more of my thoughts and ideas instead of letting them slip away. Sometimes I would only jot down a few bullet points to capture a reflection, but I believe that writing in full paragraphs helps me see things from more angles and reflect more deeply. This blog is also a way for me to improve my writing while documenting the small and big moments in my journey.
+
+I believe feedback is the best gift. I’m always eager to hear your thoughts, suggestions, or recommendations, whether it’s a great article, an inspiring speech, or any idea that sparks your interest.
 
 ### Things I'm Involved With
 
