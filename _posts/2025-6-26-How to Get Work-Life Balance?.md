@@ -10,7 +10,7 @@ Someone once asked my instructor,
 He replied,
 “Do you read any books that aren’t required for class? If yes, then you’re already gaining knowledge. If not, then maybe you need to think about it.”
 
-I feel it’s the same with work-life balance.
+I feel it’s totally the same with work-life balance.
 
 Ask yourself: Do you have balance right now? If yes, keep going. If not, it might be worth reflecting on what you’re chasing.
 
