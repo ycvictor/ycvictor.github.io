@@ -2,7 +2,7 @@
 tags: Other
 ---
 
-# Why Can't I Fully Bless Others?
+# Why can't I fully bless others?
 
 身邊陸續有幾個朋友拿到實習，想藉此記錄一下現在的想法及感受。
 

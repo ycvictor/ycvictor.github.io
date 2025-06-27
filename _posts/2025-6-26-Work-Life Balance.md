@@ -2,7 +2,7 @@
 tags: Other
 ---
 
-# Work-Life Balance
+# Work-life Balance
 
 Someone once asked my instructor,
 “How can I keep gaining knowledge while working?”
