@@ -15,7 +15,7 @@ Previously I doubled major in Computer Science and Physics in National Cheng Kun
 
 **Soccer.** I have played competitive soccer for most of my life. Over ten years on the varsity team [shaped who I am today](./_posts/2025-6-26-How soccer shaped me.md). I can be extremely competitive sometimes.
 
-**Baking.** I started learning to bake after moving to Seattle. It has been a wonderful way to unwind without screens, and a privilege to share what I make with people around me. I keep notes on every recipe I try and enjoy tweaking them bit by bit. [Here is my recipe collection.](/baking/)
+**Baking.** I started learning to bake after moving to Seattle. It has been a wonderful way to unwind without screens, and a privilege to share what I make with people around me. I keep notes on every recipe I try and enjoy tweaking them bit by bit. [Here is my recipe collection.](/baking-recipes/)
 
 ### Contact
 
