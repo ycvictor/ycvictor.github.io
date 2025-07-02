@@ -43,10 +43,10 @@
 <loc>http://localhost:4000/archive.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/baking-recipes/</loc>
+<loc>http://localhost:4000/portfolio.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/portfolio.html</loc>
+<loc>http://localhost:4000/recipes/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
