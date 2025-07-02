@@ -1,5 +1,5 @@
 ---
-tags: "Others"
+tags: Other
 ---
 
 # Choosing Pain without suffering
