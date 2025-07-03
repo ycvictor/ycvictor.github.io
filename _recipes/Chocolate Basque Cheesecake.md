@@ -2,7 +2,7 @@
 layout: post
 title: Chocolate Basque Cheesecake
 date: 2025-5-6
-thumbnail: /images/recipes/Chocolate Basque Cheesecake.jpg
+thumbnail: /images/recipes/Chocolate Basque Cheesecake.jpeg
 ---
 
 ## Chocolate Basque Cheesecake

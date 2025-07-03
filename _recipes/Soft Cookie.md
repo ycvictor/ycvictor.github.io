@@ -2,7 +2,7 @@
 layout: post
 title: Soft Cookie
 date: 2024-12-10
-thumbnail: /images/recipes/Soft Cookie.jpg
+thumbnail: /images/recipes/Soft Cookie.jpeg
 ---
 
 ## Soft Cookie

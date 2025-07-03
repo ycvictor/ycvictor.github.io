@@ -2,7 +2,7 @@
 layout: post
 title: Taro & Sweet Potato Balls
 date: 2025-2-9
-thumbnail: /images/recipes/Taro & Sweet Potato Balls.jpg
+thumbnail: /images/recipes/Taro & Sweet Potato Balls.jpeg
 ---
 
 ## Taro & Sweet Potato Balls

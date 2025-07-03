@@ -2,10 +2,8 @@
 layout: post
 title: Cheese Mochi Bread
 date: 2025-04-19
-thumbnail: /images/recipes/Cheese Mochi Bread.jpg
+thumbnail: /images/recipes/Cheese Mochi Bread.jpeg
 ---
-
-
 
 ## Cheese Mochi Bread
 
