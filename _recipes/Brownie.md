@@ -2,7 +2,7 @@
 layout: post
 title: Brownie
 date: 2024-12-13
-thumbnail: /images/recipes/brownie.jpeg
+thumbnail: /images/recipes/Brownie.jpeg
 ---
 
 ## Brownie
