@@ -38,3 +38,8 @@ defaults:
       type: posts
     values:
       tags: ["Others", "Review"]
+
+collections:
+  recipes:
+    output: true
+    permalink: /recipes/:name/
