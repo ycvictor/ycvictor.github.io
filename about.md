@@ -12,7 +12,7 @@ I believe feedback is the best gift. I’m always eager to hear your thoughts, s
 
 ### Things I'm Involved With
 
-**Software.** I believe software is a superpower. It is scalable, affordable, and capable of creating meaningful impact. I have built machine learning projects that range from predicting the survivability of cancer patients, to forecasting multi-hazard risks on power grids, to analyzing soccer performance. I also taught myself full-stack development and worked as a software engineer at Gigwok, Inc., where I helped make mental health care more engaging.
+**Software.** I believe software is a superpower. It is scalable, affordable, and capable of creating meaningful impact. I’ve built projects in machine learning and full-stack development, which you can check out [here](/portfolio.html).
 
 **Startup.** I am passionate about innovation and problem-solving. I love the startup spirit, being proactive, adaptable, and growth-oriented. I thrive in environments that value experimentation, following a build, measure, learn cycle to drive progress.
 
