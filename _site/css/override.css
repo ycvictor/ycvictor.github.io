@@ -98,3 +98,12 @@ hr {
   font-size: 0.9rem;
   color: #555;
 }
+
+.recipe-image {
+    display: block;
+    margin: 20px auto; /* center with vertical spacing */
+    max-width: 200px;  /* adjust as desired */
+    width: 100%;       /* responsive */
+    height: auto;      /* maintain aspect ratio */
+    border-radius: 8px; /* optional for rounded corners */
+}
