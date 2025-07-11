@@ -30,6 +30,7 @@ titles_from_headings:
 header_pages:
   - about.md
   - portfolio.html
+  - recipes.md
   - archive.md
 
 defaults:
