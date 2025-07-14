@@ -107,3 +107,11 @@ hr {
     height: auto;      /* maintain aspect ratio */
     border-radius: 8px; /* optional for rounded corners */
 }
+
+.figure-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+  justify-content: center;
+  align-items: center; 
+}
