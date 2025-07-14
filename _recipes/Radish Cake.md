@@ -71,9 +71,9 @@ The first time I made it, I didn’t stir the batter enough, and it didn’t set
 Most importantly, enjoy the process and trust the process. Each attempt is part of the story, and it makes it even more special when you finally get it right.
 <div class="figure-row">
     <figure>
-    <img src="/images/recipes/Radish Cake-omelette.png" alt="Radish Cake-omelette" class="recipe-image">
+    <img src="/images/recipes/Radish Cake-failure.png" alt="Radish Cake-failure" class="recipe-image">
     </figure>
     <figure>
-    <img src="/images/recipes/Radish Cake-failure.png" alt="Radish Cake-failure" class="recipe-image">
+    <img src="/images/recipes/Radish Cake-omelette.jpeg" alt="Radish Cake-omelette" class="recipe-image">
     </figure>
 </div>

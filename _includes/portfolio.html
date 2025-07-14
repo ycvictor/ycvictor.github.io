@@ -21,8 +21,22 @@
         {%- if project.link -%}
           <p><a href="{{ project.link }}" target="_blank">Learn More</a></p>
         {%- endif -%}
+        {%- if project.preview_image -%}
+          <img src="{{ project.preview_image }}" alt="{{ project.name }} preview" class="project-preview-image">
+        {%- endif -%}
+        {%- if project.preview -%}
+          <div class="preview-container">
+            <iframe src="{{ project.preview }}" title="{{ project.name }} preview"></iframe>
+          </div>
+        {%- endif -%}
+        {%- if project.youtube -%}
+          <div class="video-container">
+            <iframe src="https://www.youtube.com/embed/{{ project.youtube }}" title="{{ project.name }} video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+        {%- endif -%}
       </div>
     </div>
+    <hr>
     {%- endfor -%}
   </div>
 </section>

@@ -1,17 +1,20 @@
 - name: Data Analysis for Multi-Hazard Risk Science with NASA JPL
   location: Seattle, WA
   description: "This project aims to define space weather as a hazard and develop a framework to understand its interaction with terrestrial weather in multi-hazard scenarios, particularly its impact on power grids. Solar activity can cause geomagnetic disturbances that induce strong currents (GICs), damaging critical infrastructure. A key example is the 1989 Hydro-Quebec blackout, where a solar storm and winter weather led to a massive power outage, disrupting transportation and communications and costing $2B in damages.​"
-  link: https://zhanglinzheng.github.io/engine/
+  preview: https://zhanglinzheng.github.io/engine/
 
 - name: Emocean World
   location: Santa Monica, CA
   description: This app makes mental health care more engaging by turning anxiety relief into a fun and interactive experience. Inspired by friends facing mental health challenges and seeing my nephew and niece lose interest in school lessons on the topic, I wanted to create something simple, playful, and supportive to help people of all ages care for their mental well-being with joy and ease. Available now on the App Store and Google Play.
   link: https://www.gigwok.com/emocean
+  preview_image: /images/projects/emocean.png
 
 - name: Predicting Survivability of Cancer Patients
   description: Predicting survival time for breast cancer patients using clinical and genomic data with a multi-head attention transformer architecture. Helps doctors make informed decisions and supports patients in planning personalized treatments.
   link: https://github.com/liambakar/PredictGenome
+  preview_image: /images/projects/cancer.png
 
 - name: SoccerFlow AI Soccer Tactical Analysis
   description: Affordable player tracking and tactical analysis using computer vision with no expensive sensors needed. Visualize formations, key stats, and enhance team communication. This research-driven tool was inspired by my desire to help my soccer team train smarter with scientifically backed methods sparking my passion for machine learning through real game impact.
   link: https://www.youtube.com/watch?v=3QqCJYJVqGs
+  youtube: 3QqCJYJVqGs
