@@ -18,3 +18,7 @@
   description: Affordable player tracking and tactical analysis using computer vision with no expensive sensors needed. Visualize formations, key stats, and enhance team communication. This research-driven tool was inspired by my desire to help my soccer team train smarter with scientifically backed methods sparking my passion for machine learning through real game impact.
   link: https://www.youtube.com/watch?v=3QqCJYJVqGs
   youtube: 3QqCJYJVqGs
+
+- name: BoardHub
+  description: The idea started when I was hanging out with friends and we didn’t have our board games with us. We wanted a way to use a laptop or iPad as the game board and our phones as controllers. This project is a Kahoot-style interface for digital board games, allowing you to play your favorite games with friends anytime, anywhere, using devices you already have.
+  youtube: Kdcjj7WjC0s
