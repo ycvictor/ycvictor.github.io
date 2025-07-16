@@ -12,7 +12,7 @@
 - name: Predicting Survivability of Cancer Patients
   description: Predicting survival time for breast cancer patients using clinical and genomic data with a multi-head attention transformer architecture. Helps doctors make informed decisions and supports patients in planning personalized treatments.
   link: https://github.com/liambakar/PredictGenome
-  preview_image: /images/projects/cancer.png
+  preview_image: /images/projects/Genome Survival Poster.png
 
 - name: SoccerFlow AI Soccer Tactical Analysis
   description: Affordable player tracking and tactical analysis using computer vision with no expensive sensors needed. Visualize formations, key stats, and enhance team communication. This research-driven tool was inspired by my desire to help my soccer team train smarter with scientifically backed methods sparking my passion for machine learning through real game impact.
