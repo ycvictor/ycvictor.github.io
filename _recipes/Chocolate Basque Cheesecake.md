@@ -34,10 +34,15 @@ Basque cheesecake was the first thing I ever baked, and it’s so simple that it
     <img src="/images/recipes/Chocolate Basque Cheesecake-ready to bake.png" alt="Chocolate Basque Cheesecake-ready to bake" class="recipe-image">
     </figure>
 6. Let it cool on the counter for 15 minutes, then refrigerate for at least 4 hours. (This is the hardest part!!)
+
+<div class="figure-row">
     <figure>
     <img src="/images/recipes/Chocolate Basque Cheesecake-after baking.png" alt="Chocolate Basque Cheesecake-after baking" class="recipe-image">
     </figure>
-
+    <figure>
+    <img src="/images/recipes/Chocolate Basque Cheesecake.jpeg" alt="Chocolate Basque Cheesecake" class="recipe-image">
+    </figure>
+</div>
 
 ### Tips
 
