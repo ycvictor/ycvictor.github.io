@@ -44,6 +44,8 @@ Basque cheesecake was the first thing I ever baked, and it’s so simple that it
     </figure>
 </div>
 
+---
+
 ### Tips
 
 - Remember to sift the cocoa powder and the mixture to make the texture smoother.
