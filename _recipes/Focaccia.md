@@ -12,11 +12,11 @@ This was my first time making bread and it was way easier than I expected. It tu
 
 ## Ingredients
 
-<label><input type="checkbox"> 250 g Bread flour</label><br>
-<label><input type="checkbox"> 1.5 g yeast</label><br>
-<label><input type="checkbox"> 5 g salt</label><br>
-<label><input type="checkbox"> 225 g water</label><br>
-<label><input type="checkbox"> 25 g olive oil</label><br>
+<label><input type="checkbox"> Bread flour 250 g</label><br>
+<label><input type="checkbox"> Yeast 1.5 g</label><br>
+<label><input type="checkbox"> Salt 5 g</label><br>
+<label><input type="checkbox"> Water 225 g</label><br>
+<label><input type="checkbox"> Olive oil 25 g</label><br>
 <label><input type="checkbox"> Tomato (for topping)</label><br>
 <label><input type="checkbox"> Olive (for topping)</label><br>
 <label><input type="checkbox"> Rosemary (for topping)</label><br>
