@@ -2,7 +2,7 @@
 tags: Other
 ---
 
-# To my parents
+# The Shoulders I Stand On
 
 For the past few years, I often felt more mature than my parents. I can look at problems from different perspectives, face challenges rationally, analyze the pros and cons, and make decisions that are most suitable for us. I have clarity about the path I want to pursue, the life I want to live, and the person I want to become. I have dreams, I take action, and I rarely waste time.
 
