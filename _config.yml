@@ -1,5 +1,5 @@
 title: "Victor Chen"
-author: 
+author:
 description: "Just weaving my little corner of the web."
 # This will show up in places like twitter, linkedin, etc, if you share your site's url as a post.
 
@@ -9,7 +9,6 @@ email: "ycvictor@uw.edu"
 github_username: "ycvictor"
 linkedin_username: "yuchengvictor"
 
-
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
@@ -18,9 +17,9 @@ theme: "minima"
 kramdown:
   syntax_highlighter_opts:
     disable: true
-    
+
 plugins:
-  - jekyll-feed 
+  - jekyll-feed
   - jekyll-sitemap
 
 titles_from_headings:
