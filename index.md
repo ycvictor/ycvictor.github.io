@@ -1,8 +1,8 @@
 
 ### Hey, I’m Yu Cheng(Victor) Chen.
 
-### Someone whose confidence sometimes outpaces his ability, but who lives life wholeheartedly. 
-
 ### I write to reflect, connect, and occasionally inspire.
+
+### I live to make my 10-year-old self excited and my 80-year-old self proud.
 
 <br>
