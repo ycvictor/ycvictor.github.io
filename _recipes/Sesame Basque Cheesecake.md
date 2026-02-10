@@ -7,8 +7,9 @@ thumbnail: /images/recipes/Sesame Cheesecake.jpeg
 
 ## Sesame Cheesecake
 
-This sesame cheesecake is rich, nutty, and intentionally low in sweetness.  
-It uses only black sesame paste for flavor and has a dense, creamy texture with a classic cookie crust.
+After a long break from baking due to the tedious job hunting process, this cheesecake reminded me how fun baking can be. It’s also a privilege to make something for people I care about, those who make Seattle feel like home for me. Happy birthday, Yvan and Emily!
+
+(From a young age, my favorite part of any cheesecake has always been the crust, and this time, I finally realized how easy it is to make it myself.)
 
 ### Ingredients
 
