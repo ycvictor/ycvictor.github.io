@@ -10,7 +10,7 @@ thumbnail: /images/recipes/cookie.jpeg
 ### Ingredients
 <label><input type="checkbox"> 250 g butter</label><br>
 <label><input type="checkbox"> 90 g sugar</label><br>
-<label><input type="checkbox"> 350 g all-purpose flour</label><br>
+<label><input type="checkbox"> 350 g cake flour</label><br>
 <label><input type="checkbox"> 1 egg</label><br>
 <label><input type="checkbox"> 35 g dried cranberries</label><br>
 <label><input type="checkbox"> 6 g Earl Grey powder (3 small packets)</label><br>
