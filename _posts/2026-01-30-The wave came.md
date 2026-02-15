@@ -1,5 +1,5 @@
 ---
-tags: Others
+tags: Other
 ---
 
 # The wave came
