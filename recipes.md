@@ -4,7 +4,7 @@ title: Recipes
 permalink: /recipes/
 ---
 
-_I love snacks and baking brings me joy. If you have any feedback or a secret recipe to share, I’d genuinely love to hear from you._
+_I love snacks and baking brings me joy. If you have any feedback or a secret recipe to share, I’d love to hear from you._
 
 <br>
 
