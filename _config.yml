@@ -27,10 +27,10 @@ titles_from_headings:
   collections: true
 
 header_pages:
-  - about.md
-  - portfolio.html
-  - recipes.md
-  - archive.md
+  - pages/about.md
+  - pages/portfolio.html
+  - pages/recipes.md
+  - pages/archive.md
 
 defaults:
   - scope:

@@ -133,13 +133,13 @@
 <lastmod>2026-02-16T00:00:00-08:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/about.html</loc>
+<loc>http://localhost:4000/pages/about.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/archive.html</loc>
+<loc>http://localhost:4000/pages/archive.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/portfolio.html</loc>
+<loc>http://localhost:4000/pages/portfolio.html</loc>
 </url>
 <url>
 <loc>http://localhost:4000/recipes/</loc>
