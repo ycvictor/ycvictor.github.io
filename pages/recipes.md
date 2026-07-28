@@ -9,7 +9,7 @@ _I love snacks and baking brings me joy. If you have any feedback or a secret re
 <br>
 
 <ul class="recipe-list">
-{% assign sorted_recipes = site.recipes | sort: 'date' | reverse %}
+{% assign sorted_recipes = site.recipes | where: "published", true | sort: 'date' | reverse %}
 {% for recipe in sorted_recipes %}
   <li class="recipe-item">
     <a href="{{ recipe.url }}">

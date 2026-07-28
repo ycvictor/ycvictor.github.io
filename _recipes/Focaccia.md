@@ -1,4 +1,5 @@
 ---
+published: true
 layout: post
 title: Focaccia
 date: 2025-07-09

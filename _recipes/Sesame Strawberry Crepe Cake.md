@@ -1,4 +1,5 @@
 ---
+published: true
 layout: post
 date: 2026-02-16
 thumbnail: /images/recipes/Sesame Strawberry Crepe Cake.jpeg

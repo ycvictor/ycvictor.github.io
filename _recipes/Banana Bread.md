@@ -1,4 +1,5 @@
 ---
+published: true
 layout: post
 date: 2024-10-21
 thumbnail: /images/recipes/Banana Bread.jpeg

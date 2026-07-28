@@ -1,4 +1,5 @@
 ---
+published: true
 layout: post  
 date: 2025-10-09  
 thumbnail: /images/recipes/Cheese Cake Bar.jpeg

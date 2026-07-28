@@ -1,4 +1,5 @@
 ---
+published: true
 layout: post
 title: Lasagna
 date: 2025-07-23

@@ -1,4 +1,5 @@
 ---
+published: true
 layout: post
 title: Cookie
 date: 2025-01-25

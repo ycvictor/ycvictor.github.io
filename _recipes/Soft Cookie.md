@@ -1,4 +1,5 @@
 ---
+published: true
 layout: post
 title: Soft Cookie
 date: 2024-12-10

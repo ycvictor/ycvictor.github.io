@@ -1,4 +1,5 @@
 ---
+published: true
 layout: post
 title: Chocolate Basque Cheesecake
 date: 2025-5-6
