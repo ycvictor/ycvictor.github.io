@@ -25,5 +25,5 @@ I believe feedback is the best gift. I’m always eager to hear your thoughts, s
 I'm always looking forward to meeting and collaborating with new people.
 Here are some ways to keep in touch with me:
 
-- **Email:** ycvictor [at] uw [dot] edu
+- **Email:** yuchengvictor [at] gmail [dot] com
 - **LinkedIn:** /in/yuchengvictor/
