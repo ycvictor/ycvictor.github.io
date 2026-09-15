@@ -22,8 +22,7 @@ I believe feedback is the best gift. I’m always eager to hear your thoughts, s
 
 ### Contact
 
-I'm always looking forward to meeting and collaborating with new people.
-Here are some ways to keep in touch with me:
+I love making friends! Here are some ways to keep in touch with me:
 
 - **Email:** yuchengvictor [at] gmail [dot] com
 - **LinkedIn:** /in/yuchengvictor/
